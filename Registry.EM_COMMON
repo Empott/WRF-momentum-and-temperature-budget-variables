@@ -2,8 +2,8 @@
 #This code was adapted by code from N. Moisseeva. Her original files, and instructions for using the code, can be found at https://open.library.ubc.ca/media/download/pdf/33426/1.0107646/1. 
 #These additions are marked by the initials NM. Further modifications were made by E. Potter in 2017, and are marked by the initials EP. They were used in version 3.8 of the WRF code.
 ############################################################################################################################
-
-
+#This file is in the Registry directory.
+############################################################################################################################
                                          
 # At the present time this file is managed manually and edited by hand.                                         
 #                                               
